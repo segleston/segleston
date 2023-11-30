@@ -1,4 +1,5 @@
-![brittney-burnett-qFS2hU6DFhk-unsplash](https://github.com/segleston/segleston/assets/77920230/ae1445c6-87bd-452b-8e01-5a111ff44a6e)
+![brittney-burnett-qFS2hU6DFhk-unsplash](https://github.com/segleston/segleston/assets/77920230/68823c76-f0de-4af8-b122-390e6ce3e385)
+
 
 ### Hi there 👋 I'm Sarah.
 
