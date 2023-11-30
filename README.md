@@ -12,13 +12,6 @@
 🫶 Join me on this exciting journey of continuous learning as I cultivate my skills in software development and pave the way for a fulfilling career in the tech industry.
 
 
-<div style="text-align:center, padding:5px">
-  <a href="https://www.linkedin.com/in/sarah-egleston/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
-<img src="https://komarev.com/ghpvc/?username=segleston&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
 
 
 <!--
