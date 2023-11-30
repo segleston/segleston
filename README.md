@@ -1,3 +1,5 @@
+![brittney-burnett-qFS2hU6DFhk-unsplash](https://github.com/segleston/segleston/assets/77920230/ae1445c6-87bd-452b-8e01-5a111ff44a6e)
+
 ### Hi there 👋 I'm Sarah.
 
 Welcome to my personal GitHub repository! 
