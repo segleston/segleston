@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Sarah.
+
+Welcome to my personal GitHub repository! 
+
+I'm passionate about learning new skills and previously was an Emergency and Critical Care Veterinary Nurse. 
+
+Driven by my passion for problem solving, I recently ventured into the IT realm, embracing the challenge of becoming an RPA (Robotics Process Automation) Developer. This transition sparked my desire to delve deeper into the world of software development. Eager to learn new skills, I recently embarked on a certificate course in Front-End Web Development through edX. 
+
+Join me on this exciting journey of continuous learning as I cultivate my skills in software development and pave the way for a fulfilling career in the tech industry.
+
+
 
 <!--
 **segleston/segleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
