@@ -14,11 +14,11 @@
 
 👋 Welcome to my personal GitHub repository! 
 
-🦴 I'm passionate about learning new skills and previously was an Emergency and Critical Care Veterinary Nurse. 
+🦴 I'm passionate about learning new skills, I was previously an Emergency and Critical Care Veterinary Nurse prior to moving into an operations role within the pet insurance industry. 
 
 🤓 Driven by my passion for problem solving, I recently ventured into the IT realm, embracing the challenge of becoming an RPA (Robotics Process Automation) Developer. This transition sparked my desire to delve deeper into the world of software development. Eager to learn new skills, I recently started on a certificate course in Front-End Web Development through edX. 
 
-🫶 Join me on this exciting journey of continuous learning as I cultivate my skills in software development and pave the way for a fulfilling career in the tech industry.
+🫶 Join me on this exciting journey as I build my skills in software development.
 
 
 
