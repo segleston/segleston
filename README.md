@@ -31,6 +31,16 @@
 
 ---
 
+### My Repos :
+
+
+ Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=buffy-quiz&theme=tokyonight)](https://segleston.github.io/buffy-quiz/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=password-generator&theme=tokyonight)](https://segleston.github.io/password-generator/)          |
+|                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=Console-Finances&theme=tokyonight)](https://segleston.github.io/Console-Finances/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=Bootstrap-Portfolio&theme=tokyonight)](https://segleston.github.io/Bootstrap-Portfolio/)          |
+
+
+--- 
 
 ### My Stats :
 
@@ -38,19 +48,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segleston&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
 
+## Credit :
 
-<!--
-**segleston/segleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Resources</summary>
 
-Here are some ideas to get you started:
+- Neon photo: [Pexels](https://www.pexels.com/)
+- Visits counter: [Anton Komarev](https://github.com/antonkomarev/github-profile-views-counter)
+- Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
