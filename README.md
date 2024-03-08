@@ -52,7 +52,6 @@ Hello! I'm Sarah 😄 (She/Her)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segleston&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=segleston&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 
