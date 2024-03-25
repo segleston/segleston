@@ -1,6 +1,3 @@
-![brittney-burnett-qFS2hU6DFhk-unsplash](https://github.com/segleston/segleston/assets/77920230/68823c76-f0de-4af8-b122-390e6ce3e385)
-
----
 
 <div id="badges" align="center" style="padding-bottom: 10px">
   <a href="https://www.linkedin.com/in/sarah-egleston/">
