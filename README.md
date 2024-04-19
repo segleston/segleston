@@ -15,9 +15,17 @@ Hello! I'm Sarah 😄 (She/Her)
 
 🦴 I'm passionate about learning new skills, I was previously an Emergency and Critical Care Veterinary Nurse prior to moving into an operations role within the pet insurance industry. 
 
-🤓 Driven by my passion for problem solving, I recently ventured into the IT realm, embracing the challenge of becoming an RPA (Robotics Process Automation) Developer. This transition sparked my desire to delve deeper into the world of software development. Eager to learn new skills, I recently started a Front-End Web Development bootcamp through edX. 
+🤓 My passion for learning new technologies motivated me to transition into the tech industry in 2023 with a move into RPA as a Robotic Process Automation Developer. This transition not only allowed me to leverage my problem-solving skills in a new domain but also ignited an interest in software development.
 
+🖥️ Fuelled by my new found interest and eager to expand my skill set, I recently completed a certificate in Front End Web Development with EdX, achieving a final score of 100%. Currently, I'm undertaking online courses to further enhance my front-end development skills and pave the way towards my goal of becoming a full-stack developer.
 
+🌳 Get in touch 
+
+<div id="badges" align="left" style="padding-bottom: 10px">
+  <a href="https://www.linkedin.com/in/sarah-egleston/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
 
 
 ---
