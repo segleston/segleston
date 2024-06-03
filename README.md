@@ -11,13 +11,13 @@
 
 Hello! I'm Sarah 😄 (She/Her) 
 
-👋 Welcome to my personal GitHub repository, please see my [portfolio](https://segleston.github.io/portfolio-react/)! 
+👋 Welcome to my personal GitHub repository, please see my [portfolio](https://egleston.dev/)! 
 
 🦴 I'm passionate about learning new skills, I was previously an Emergency and Critical Care Veterinary Nurse prior to moving into an operations role within the pet insurance industry. 
 
 🤓 My passion for learning new technologies motivated me to transition into the tech industry in 2023 with a move into RPA as a Robotic Process Automation Developer. This transition not only allowed me to leverage my problem-solving skills in a new domain but also ignited an interest in software development.
 
-🖥️ Fuelled by my new found interest and eager to expand my skill set, I recently completed a certificate in Front End Web Development with EdX, achieving a final score of 100%. Currently, I'm undertaking online courses to further enhance my front-end development skills and pave the way towards my goal of becoming a full-stack developer.
+🖥️ Fuelled by my new found interest and eager to expand my skill set, I recently completed a certificate in Front End Web Development with EdX, achieving a final score of 100%. Currently, I'm undertaking a secondment as a Systems Analyst Programmer and continuing with online courses to further enhance my front-end development skills and pave the way towards my goal of becoming a full-stack developer.
 
 🌳 Get in touch 
 
