@@ -1,15 +1,4 @@
-
-<div id="badges" align="center" style="padding-bottom: 10px">
-  <a href="https://www.linkedin.com/in/sarah-egleston/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-
-
----
-### About Me:
-
-Hello! I'm Sarah 😄 (She/Her) 
+### Hello! I'm Sarah 😄 
 
 👋 Welcome to my personal GitHub repository, please see my [portfolio](https://egleston.dev/)! 
 
@@ -48,8 +37,6 @@ Hello! I'm Sarah 😄 (She/Her)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### My Repos :
 
 
  Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
