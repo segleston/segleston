@@ -1,6 +1,6 @@
 ### Hello! I'm Sarah.
 
-👋 Welcome to my personal GitHub repository, please see my [portfolio](https://egleston.dev/)! 
+👋 Welcome to my personal GitHub repository, please see my [portfolio](https://egleston.dev/).
 
 🦴 I'm passionate about learning new skills, I was previously an Emergency and Critical Care Veterinary Nurse prior to moving into an operations role within the pet insurance industry. 
 
