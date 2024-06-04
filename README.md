@@ -1,4 +1,4 @@
-### Hello! I'm Sarah 😄 
+### Hello! I'm Sarah.
 
 👋 Welcome to my personal GitHub repository, please see my [portfolio](https://egleston.dev/)! 
 
