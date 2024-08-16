@@ -6,7 +6,7 @@
 
 🤓 My passion for learning new technologies motivated me to transition into the tech industry in 2023 with a move into RPA as a Robotic Process Automation Developer. This transition not only allowed me to leverage my problem-solving skills in a new domain but also ignited an interest in software development.
 
-🖥️ Fuelled by my new found interest and eager to expand my skill set, I recently completed a certificate in Front End Web Development with EdX, achieving a final score of 100%. Currently, I'm undertaking a secondment as a Systems Analyst Programmer and continuing with online courses to further enhance my front-end development skills and pave the way towards my goal of becoming a full-stack developer.
+🖥️ Fuelled by my new found interest and eager to expand my skill set, I recently completed a certificate in Front End Web Development with EdX, achieving a final score of 100%. Currently, I'm undertaking the Code First Girls degree in Software Development. 
 
 🌳 Get in touch 
 
