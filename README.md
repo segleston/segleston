@@ -8,7 +8,7 @@
 
 🖥️ Fuelled by my new found interest and eager to expand my skill set, I completed a certificate in Front End Web Development with EdX in March 2024, achieving a final score of 100%. 
 
-🧠️ What I'm currently learning: Python & SQL on the Software Development Degree with Code First Girls
+🧠️ What I'm currently learning: Python & SQL on the Software Development Degree with [Code First Girls](https://codefirstgirls.com/)
 
 🌳 Get in touch 
 
