@@ -4,7 +4,7 @@
 
 🦴 I'm passionate about learning new skills, I was previously an Emergency and Critical Care Veterinary Nurse prior to moving into an operations role within the pet insurance industry. 
 
-🤓 My passion for learning new technologies motivated me to transition into the tech industry in 2023 with a move into RPA as a Intelligent Automation Developer. This transition not only allowed me to leverage my problem-solving skills in a new domain but also ignited an interest in software development.
+🤓 My passion for learning new technologies motivated me to transition into the tech industry in 2023 with a move into RPA as an Intelligent Automation Developer. This transition not only allowed me to build on my problem-solving skills in a new domain but also ignited an interest in software development.
 
 🖥️ Fuelled by my new found interest and eager to expand my skill set, I completed a certificate in Front End Web Development with EdX in March 2024, achieving a final score of 100%. 
 
