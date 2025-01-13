@@ -6,9 +6,7 @@
 
 🤓 I transitioned into the tech industry in 2023 with a move into RPA as an Intelligent Automation Developer. This transition not only allowed me to build on my problem-solving skills but also ignited an interest in software development.
 
-🖥️ Fuelled by my new found interest and wanting to expand my skill set, I completed a certificate in Front End Web Development with EdX in March 2024 learning JavaScript, jQuery, React and more. 
-
-🧠️ What I'm currently learning: Python & SQL on the Software Development Degree with [Code First Girls](https://codefirstgirls.com/)
+🖥️ Fuelled by my new found interest and wanting to expand my skill set, I completed a certificate in Front End Web Development with EdX in March 2024 learning JavaScript, jQuery, React and more. I have recently completed the Code First Girls Degree in Software Development, covering Python and SQL. 
 
 🌳 Get in touch 
 
