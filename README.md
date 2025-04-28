@@ -4,11 +4,12 @@
 
 🦴 I'm passionate about learning new skills, I was previously an Emergency and Critical Care Veterinary Nurse prior to moving into an operations role within the pet insurance industry. 
 
-🤓 I transitioned into the tech industry in 2023 with a move into RPA as an Intelligent Automation Developer. This transition not only allowed me to build on my problem-solving skills but also ignited an interest in software development.
+🤓 I transitioned into the tech industry in 2023 with a move into RPA as an Intelligent Automation Developer. This transition not only allowed me to build on my problem-solving skills but also ignited an interest in software development. I am currently an Associate Engineer with Sainsbury's. 
 
-🖥️ Fuelled by my new found interest and wanting to expand my skill set, I completed a certificate in Front End Web Development with EdX in March 2024 learning JavaScript, jQuery, React and more. I have recently completed the Code First Girls Degree in Software Development, covering Python and SQL. 
+🖥️ Fuelled by my new found interest and wanting to expand my skill set, I completed a certificate in Front End Web Development with EdX in March 2024 learning JavaScript, jQuery, React and more. I recently completed the Code First Girls Degree in Software and Data Engineering with a distinction. 
 
 🌳 Get in touch 
+[Work Repo](https://github.com/sarah-egl)
 
 <div id="badges" align="left" style="padding-bottom: 10px">
   <a href="https://www.linkedin.com/in/sarah-egleston/">
